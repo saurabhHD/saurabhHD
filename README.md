@@ -85,15 +85,6 @@
 <a href="https://github.com/saurabhhd" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://dev.to/saurabhhd" target="_blank">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
-</a>
-<a href="https://stackoverflow.com/users/saurabhhd" target="_blank">
-  <img src="https://img.shields.io/badge/Stack Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white">
-</a>
-<a href="https://medium.com/@saurabhhd" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-</a>
 <a href="https://saurabhk.online" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-4e4e4e?style=for-the-badge&logo=about-dot-me&logoColor=white">
 </a>
